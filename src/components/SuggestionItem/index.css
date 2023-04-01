@@ -1,0 +1,21 @@
+.suggestionCon {
+  list-style-type: none;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.para {
+  color: #64748b;
+}
+
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.arrow {
+  width: 28px;
+}
